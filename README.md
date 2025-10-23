@@ -1,13 +1,13 @@
 ## Some of my posters and presentations
 
 Internal tides generation by isolated three-dimensional seamounts: 
-* Symposium LEFE-MANU (2023): poster
-* EGU2024 (2024): poster
-* Workshop 'Parameterizations for Global Dynamical Models in Climatology, Astrophysics, and Planetology', Les Houches (2025) : présentation
-* GdR MFGA, Marseille (2025): présentation
+* Symposium LEFE-MANU (2023): [poster](https://github.com/cecileledizes/communications/blob/main/posterLEFE.pdf)
+* EGU2024 (2024): [poster](https://github.com/cecileledizes/communications/blob/main/poster_egu.pdf)
+* Workshop 'Parameterizations for Global Dynamical Models in Climatology, Astrophysics, and Planetology', Les Houches (2025) : [présentation](https://github.com/cecileledizes/communications/blob/main/SlidesHouches.pdf)
+* GdR MFGA, Marseille (2025): [présentation](https://github.com/cecileledizes/communications/blob/main/SlidesHouches.pdf)
 
 Density layering in rotating, stratified turbulence:
-* GFD final présentation, Woods Hole (2024): présentation
+* GFD final présentation, Woods Hole (2024): [présentation](https://github.com/cecileledizes/communications/blob/main/SlidesGFD.pdf)
 
 ## 📜 License
 
